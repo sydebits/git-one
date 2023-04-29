@@ -10,5 +10,13 @@ body{
 span{
   font-size: 30px;
   background: #fff;
-  
+  border: solid darkblue 20px;
+  text-decoration: underline;
+
+}
+.aside-bar{
+  margin: auto;
+  background-color: darkblue;
+  width: 20rem;
+  height: 40rem;
 }
