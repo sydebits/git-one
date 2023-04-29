@@ -1,5 +1,13 @@
 body{
-  background: red;
+  background: darkred;
   color: cyan;
+}
+.git-one{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+span{
+  font-size: 30px
   
 }
